@@ -1,0 +1,79 @@
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.exe.manifest
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.application
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.exe
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.pdb
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\DevelopDotNet.Compression.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\LogicaCMG.EnterpriseLibraryExtensions.Logging.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.AddIns.HostViews.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.Enums.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.Serializable.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.Serializable.XmlSerializers.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.ServerInterface.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.XmlSerializers.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Diagnostics.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Interface.InitEngineToAppController.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNow.Services.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNowConnect.dll
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\bin\Debug\RightNowConnect.xml
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\Example2___Update.frmMain.resources
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.exe.manifest
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.application
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.exe
+C:\Documents and Settings\vj46999\Desktop\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.pdb
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.exe
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.pdb
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.exe.manifest
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.application
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.exe
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\Example2 - Update.pdb
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\DevelopDotNet.Compression.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\LogicaCMG.EnterpriseLibraryExtensions.Logging.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.AddIns.HostViews.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.Enums.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.Serializable.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.Serializable.XmlSerializers.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.ServerInterface.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Data.XmlSerializers.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Diagnostics.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Interface.InitEngineToAppController.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNow.Services.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNowConnect.dll
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\bin\Debug\RightNowConnect.xml
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2___Update.frmMain.resources
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.exe.manifest
+C:\Documents and Settings\vj46999\Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.application
+C:\Documents and Settings\vj46999\Desktop\April Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.exe
+C:\Documents and Settings\vj46999\Desktop\April Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.pdb
+C:\Documents and Settings\vj46999\Desktop\April Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vj46999\Desktop\April Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2___Update.frmMain.resources
+C:\Documents and Settings\vj46999\Desktop\April Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\vj46999\Desktop\April Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\vj46999\Desktop\April Desktop\New Folder (10)\update_resolved(1)\update_resolved(1)\update_resolved\obj\Debug\Example2 - Update.exe.manifest
+C:\Documents and Settings\vj46999\Desktop\update_resolved_am\obj\Debug\Example2 - Update.exe
+C:\Documents and Settings\vj46999\Desktop\update_resolved_am\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vj46999\Desktop\update_resolved_am\obj\Debug\Example2___Update.frmMain.resources
+C:\Documents and Settings\vj46999\Desktop\update_resolved_am\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\vj46999\Desktop\update_resolved_am\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Angelo Maragos\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\Example2 - Update.exe
+C:\Users\Angelo Maragos\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Angelo Maragos\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\Example2___Update.frmMain.resources
+C:\Users\Angelo Maragos\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Angelo Maragos\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\Old Blackacidevil\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\Example2 - Update.exe
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\Old Blackacidevil\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\Example2 - Update.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\Old Blackacidevil\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\Example2___Update.frmMain.resources
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\Old Blackacidevil\Desktop\New folder (18)\update_resolved_am\update_resolved_am\obj\Debug\Example2 - Update.csproj.GenerateResource.Cache

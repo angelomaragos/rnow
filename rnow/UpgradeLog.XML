@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Example2 - Update">
+</Property><Property Name="Solution File" Value="C:\Users\Maxi\Downloads\Example2\Example2 - Update\Example2 - Update.sln">
+</Property><Property Name="Date" Value="Saturday, February 12, 2011">
+</Property><Property Name="Time" Value="3:05:50 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Example2 - Update" Source="Example2 - Update.csproj" Description="Project file successfully backed up as C:\Users\Maxi\Downloads\Example2\Example2 - Update\Backup\Example2 - Update.csproj">
+</Event><Event ErrorLevel="0" Project="Example2 - Update" Source="IncidentUpdater.cs" Description="File successfully backed up as C:\Users\Maxi\Downloads\Example2\Example2 - Update\Backup\IncidentUpdater.cs">
+</Event><Event ErrorLevel="0" Project="Example2 - Update" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Maxi\Downloads\Example2\Example2 - Update\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Example2 - Update" Source="Example2 - Update.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Example2 - Update" Source="Example2 - Update.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Example2 - Update" Source="Example2 - Update.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
