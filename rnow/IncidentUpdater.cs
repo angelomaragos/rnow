@@ -37,7 +37,7 @@ namespace Example2___Update
 {
     public class IncidentUpdater
     {
-        private const String SITE_URL = "https://dymo--tst.custhelp.com/cgi-bin/dymo.cfg/php/xml_api/soap_api.php";
+        private const String SITE_URL = "https://ENTER_A_VALID_RIGHTNOW_URL";
         private const String CONNECT_USER = "rnow";
         private const String CONNECT_PASSWORD = "password123";
 
