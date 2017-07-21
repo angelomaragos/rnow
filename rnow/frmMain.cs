@@ -16,7 +16,7 @@ namespace Example2___Update
         #region Instance fields
 
         private const String SITE_URL = "https://dymo--tst.custhelp.com/cgi-bin/dymo.cfg/php/xml_api/soap_api.php";
-        private const String CONNECT_USER = "rnow";
+        private const String CONNECT_USER = "---";
         private const String CONNECT_PASSWORD = "password123";
         private RNOWObjectFactory _objectFactory;
         private int inc_id;
